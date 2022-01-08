@@ -1273,7 +1273,7 @@
 
 					vbmeta {
 						compatible = "android,vbmeta";
-						parts = "";
+						parts = "vbmeta,boot,system,vendor,product,odm,prism,optics,vbmeta_system,recovery,dtbo,keystorage";
 					};
 				};
 			};
